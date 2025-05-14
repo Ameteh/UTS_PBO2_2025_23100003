@@ -1,7 +1,7 @@
-package com.mycompany.mavenproject3;
+package com.example;
 
-import javax.swing.*;
 import java.awt.*;
+import javax.swing.*;
 
 public class Mavenproject3 extends JFrame implements Runnable {
     private String text;
